@@ -1,6 +1,7 @@
 <div align="center">
-<img width="350" alt="image" src="https://github.com/user-attachments/assets/4640656d-4e33-43e5-99f2-cbbe62887c04" />
+<img width="500" alt="Image  5, 2025, 08_31_02 PM" src="https://github.com/user-attachments/assets/58ebb479-9a90-4dd2-9c7b-8fa4e6011fac" />
 </div>
+
 
 # Philosophers Project
 
